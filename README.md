@@ -1,6 +1,7 @@
-# Getting Started with Create React App
-
+# Life Expectancy and GDP by country
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://user-images.githubusercontent.com/78372100/186010665-936dfa4e-ea8a-420c-98c1-543d02397435.png)
+
 
 ## Available Scripts
 
